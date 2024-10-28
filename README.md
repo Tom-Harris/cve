@@ -1,7 +1,7 @@
 # cve
 Script(s) to aid in assessing scan results 
 # Purpose
-Aid in assessming scan results.  It provides basic data about a vulnerability using CVE API (starting with the RHEL API).
+Aid in assessing scan results.  It provides basic data about a vulnerability using CVE API (starting with the RHEL API).
 
 It also uses the cvsslid module (git link) to recast CVSS scores with temporal and environmental variables.  
 
